@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name":"netProxy",
 	"short_name":"NP",
-	"version":"0.0.0.7",
+	"version":"0.0.0.8",
 	"description":"Text data Proxy",
 	"icons":{"128":"128.png","48":"48.png","16":"16.png"},
 	"browser_action":{
